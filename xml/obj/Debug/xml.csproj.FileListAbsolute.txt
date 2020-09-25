@@ -1,0 +1,8 @@
+C:\Users\Kacper\Projekty\xml\xml\bin\Debug\xml.exe.config
+C:\Users\Kacper\Projekty\xml\xml\bin\Debug\xml.exe
+C:\Users\Kacper\Projekty\xml\xml\bin\Debug\xml.pdb
+C:\Users\Kacper\Projekty\xml\xml\obj\Debug\xml.Form1.resources
+C:\Users\Kacper\Projekty\xml\xml\obj\Debug\xml.Properties.Resources.resources
+C:\Users\Kacper\Projekty\xml\xml\obj\Debug\xml.csproj.GenerateResource.Cache
+C:\Users\Kacper\Projekty\xml\xml\obj\Debug\xml.exe
+C:\Users\Kacper\Projekty\xml\xml\obj\Debug\xml.pdb
